@@ -103,6 +103,7 @@ footer {
 
 footer a {
     font-weight: bold;
+    cursor: pointer;
 }
 
 #balls {
